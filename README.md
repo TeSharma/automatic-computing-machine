@@ -4,15 +4,32 @@ Build a decentralized Forex trading platform leveraging blockchain technology,
 enabling secure, transparent and censorship-resistance transaction
 
 ## Installation 
-- Clone the repository:(git clone)
-- Install dependencies:('npm install)
-- Seetup environment variables:(.env.example)
-- Deploy smart contracts:(truffle migrate)
+- Clone the repository
+- Install dependencies:
+    '''bash
+    npm install
+    '''
+
+- Setup environment variables:
+    '''bash
+    .env.example
+    '''
+
+- Deploy smart contracts:
+    '''bash
+    truffle migrate
+    '''
 
 ## Usage
-- Run the dApp:(npm start)
-- Access the dApp:(http://localhost:3000)
+- Run the dApp:
+    '''bash
+    npm start
+    '''
+
+- Access the dApp:[http://localhost:3000]
+
 - Connect wallet (metamask)
+
 - Trade Forex pair (GBP/JPY)
 
 ## Features
