@@ -33,13 +33,13 @@ enabling secure, transparent and censorship-resistance transaction
 - Forex training hub (linked to IN N' OUT FX UNIVERSITY)
 
 ## Smart contract details
- Contract name:(forextrading contract)
+ Contract name:`ForexTradingContract`
 
  Network:Ethereum mainnet/testnet
 
- Language: Solidity
+ Language: `Solidity`
 
- Compiler: Truffle
+ Compiler: `Truffle`
 
 ## Contribution 
 Fork the repository
@@ -47,7 +47,7 @@ create a feature branch
 submit a pull request
 
 ## License
-MIT License
+[MIT License](LICENSE).
 
 ## contact
 Email: mail to: tesharma2@gmail.com
