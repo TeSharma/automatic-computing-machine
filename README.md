@@ -42,9 +42,11 @@ enabling secure, transparent and censorship-resistance transaction
  Compiler: `Truffle`
 
 ## Contribution 
-Fork the repository
-create a feature branch 
-submit a pull request
+1. Fork the repository
+
+2. Create a feature branch 
+
+3. submit a pull request
 
 ## License
 [MIT License](LICENSE).
