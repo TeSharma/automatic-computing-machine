@@ -6,27 +6,19 @@ enabling secure, transparent and censorship-resistance transaction
 ## Installation 
 - Clone the repository
 - Install dependencies:
-    '''bash
-    npm install
-    '''
+    'npm install'
 
 - Setup environment variables:
-    '''bash
-    .env.example
-    '''
+    '.env.example'
 
 - Deploy smart contracts:
-    '''bash
-    truffle migrate
-    '''
+    'truffle migrate'
 
 ## Usage
 - Run the dApp:
-    '''bash
-    npm start
-    '''
+    'npm start'
 
-- Access the dApp:[http://localhost:3000]
+- Access the dApp:[http://localhost:3000](http://localhost:3000)
 
 - Connect wallet (metamask)
 
