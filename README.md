@@ -6,17 +6,17 @@ enabling secure, transparent and censorship-resistance transaction
 ## Installation 
 - Clone the repository
 - Install dependencies:
-    'npm install'
+    `npm install`
 
 - Setup environment variables:
-    '.env.example'
+    `.env.example`
 
 - Deploy smart contracts:
-    'truffle migrate'
+    `truffle migrate`
 
 ## Usage
 - Run the dApp:
-    'npm start'
+    `npm start`
 
 - Access the dApp:[http://localhost:3000](http://localhost:3000)
 
@@ -34,8 +34,11 @@ enabling secure, transparent and censorship-resistance transaction
 
 ## Smart contract details
  Contract name:(forextrading contract)
+
  Network:Ethereum mainnet/testnet
+
  Language: Solidity
+
  Compiler: Truffle
 
 ## Contribution 
