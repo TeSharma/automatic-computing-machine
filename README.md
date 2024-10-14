@@ -49,7 +49,7 @@ enabling secure, transparent and censorship-resistance transaction
 3. submit a pull request
 
 ## License
-[MIT License](LICENSE).
+[BSD License](LICENSE).
 
 ## contact
 Email: mail to: tesharma2@gmail.com
